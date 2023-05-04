@@ -2,7 +2,7 @@
 	<img src="https://user-images.githubusercontent.com/64346030/236112840-cc1bb8ec-9fc3-40b5-a33c-1bc62c6ee6cf.png" width=30%/>
 <h1 align="center">Multimodal Approach for Detecting Depression Using Physiological And Behavioural Data</h1>
 <h3 align="center">Are you interested in detecting depression with a more efficient and modern approach? </h3>
-<h4 align="center"> Traditionally, extensive clinical interviews were conducted to analyze the subject's responses to determine their mental state. However, we have developed a model that incorporates this approach by combining three modalities - word context, audio, and video. Our deep learning model assigns appropriate weights to each modality and generates a binary classification output of yes or no, indicating whether the patient is exhibiting depression symptoms.<h4>
+<h4 align="center"> Traditionally, extensive clinical interviews were conducted to analyze the subject's responses to determine their mental state. However, we have developed a model that incorporates this approach by combining three modalities - Text, Audio, and Video. Our deep learning model assigns appropriate weights to each modality and generates a binary classification output of yes or no, indicating whether the patient is exhibiting depression symptoms.<h4>
 </p>
 
 # How to Use the Files:
