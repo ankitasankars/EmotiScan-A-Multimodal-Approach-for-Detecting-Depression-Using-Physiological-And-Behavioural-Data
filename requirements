@@ -1,0 +1,11 @@
+nltk
+numpy
+pandas
+gensim
+gc
+math
+keras
+smart_open
+sklearn
+matplotlib
+tensorflow 
