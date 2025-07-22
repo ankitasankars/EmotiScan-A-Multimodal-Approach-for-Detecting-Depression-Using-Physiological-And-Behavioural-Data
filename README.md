@@ -7,7 +7,7 @@
 
 # How to Use the Files:
 
-Ready to give our model a try? First, make a copy of the drive folder (https://drive.google.com/drive/folders/1A9pfBsfNOKhjeLfzrcYIra-hTr8dyJiT?usp=share_link) and add it to your main "my-drive" folder. Make sure to copy the dataset folder to the correct location, and you're good to go! For an even easier experience, we recommend running the files on Google Colab. 
+Ready to give our model a try? First, apply to the DAIC-WOZ Database to get access to download the dataset - (https://dcapswoz.ict.usc.edu/#:~:text=DAIC-WOZ%20Database,-This%20database%20contains&text=Data%20collected%20include%20audio%20and,human%20interviewer%20in%20another%20room). Make sure to copy the dataset folder to the correct location, and you're good to go! For an even easier experience, we recommend running the files on Google Colab.
 
 # Files:
 
